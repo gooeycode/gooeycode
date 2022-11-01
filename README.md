@@ -7,23 +7,25 @@
 
 <p align="left"> <a href="https://twitter.com/kodemlai" target="blank"><img src="https://img.shields.io/twitter/follow/kodemlai?logo=twitter&style=for-the-badge" alt="kodemlai" /></a> </p>
 
-- 🔭 I’m currently working on [A social media app](www.gooeycode.pythonanywhere.com)
+- 🔭 I’m currently working on [a social media app built with django](https://gooeycode.pythonanywhere.com/)
 
 - 🌱 I’m currently learning **Django, Python, Pandas**
 
-- 👯 I’m looking to collaborate on **Any startup projects**
+- 👯 I’m looking to collaborate on **any startup projects**
 
-- 🤝 I’m looking for help with **Getting a Python Developer Role**
+- 🤝 I’m looking for help with **getting a Python Developer Role**
 
 - 👨‍💻 All of my projects are available at [gooeycode.net](gooeycode.net)
 
 - 📝 I regularly write articles on [gooeycode.net/blog](gooeycode.net/blog)
 
-- 💬 Ask me about **Anything Logic & Design**
+- 💬 Ask me about **anything Logic & Design**
 
 - 📫 How to reach me **gooeycode@gmail.com**
 
-- ⚡ Fun fact **I think I'm the best :)**
+- 📄 Know about my experiences [CV coming soon :)](CV coming soon :))
+
+- ⚡ Fun fact **I'm the best :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
