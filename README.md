@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm May Feko</h1>
-<h3 align="center">A passionate backend developer from London</h3>
+<h1 align="center">Hi 👋, I'm Mayowa Olufeko</h1>
+<h3 align="center">A passionate Designer & Developer from London </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gooeycode&label=Profile%20views&color=0e75b6&style=flat" alt="gooeycode" /> </p>
 
@@ -7,25 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/kodemlai" target="blank"><img src="https://img.shields.io/twitter/follow/kodemlai?logo=twitter&style=for-the-badge" alt="kodemlai" /></a> </p>
 
-- 🔭 I’m currently working on [a social media app built with django](https://gooeycode.pythonanywhere.com/)
-
-- 🌱 I’m currently learning **Django, Python, Pandas**
-
-- 👯 I’m looking to collaborate on **any startup projects**
-
-- 🤝 I’m looking for help with **getting a Python Developer Role**
+- 👯 I’m looking for a new role as a **UX Designer or UI Developer on **any startup projects**
 
 - 👨‍💻 All of my projects are available at [gooeycode.net](gooeycode.net)
 
-- 📝 I regularly write articles on [gooeycode.net/blog](gooeycode.net/blog)
-
-- 💬 Ask me about **anything Logic & Design**
-
-- 📫 How to reach me **gooeycode@gmail.com**
-
-- 📄 Know about my experiences [CV coming soon :)](CV coming soon :))
-
-- ⚡ Fun fact **I'm the best :)**
+- 📫 How to reach me **mayowafeko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
